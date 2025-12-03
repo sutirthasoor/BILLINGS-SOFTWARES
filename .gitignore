@@ -4,3 +4,5 @@
 [Oo]bj/ 
 *.db 
 .vs/ 
+config.bat
+node_modules
